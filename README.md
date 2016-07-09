@@ -1,3 +1,3 @@
 # Jenkins
 
-This Jenkins automation scripts. 
+Jenkins automation scripts. 
