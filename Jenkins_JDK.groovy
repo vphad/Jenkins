@@ -1,3 +1,8 @@
+/*
+This script finds all the jobs with JDK details
+
+*/
+
 println 'Job Name,Url,JDK'
 
 Jenkins.instance.getAllItems(AbstractProject.class).each{
